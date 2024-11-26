@@ -2,7 +2,7 @@
     "king": {
         "name": "King",
         "text": [
-            "Welcome to the kingdom of Krypix!",
+            "Welcome to the kingdom of Kaetram!",
             "You have travelled long and far, and for that you have my respect."
         ]
     },
@@ -253,11 +253,11 @@
     },
 
     "coder": {
-        "name": "George",
+        "name": "Programmer",
         "text": [
-            "Welcome, welcome!",
-            "I see you are very naked.",
-            "How about go out the door and kill some monsters.",
+            "Well well, hello there. Seems you managed to esca- I mean,",
+            "find your way out of that tutorial.",
+            "Listen, your first task should be to discover the world around you.",
             "Why don't you go talk to the villagers for starters?",
             "After that, maybe we can look into getting you some tasks to do."
         ]
