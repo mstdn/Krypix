@@ -41,7 +41,44 @@
             {
                 "key": "feather",
                 "chance": 100000
-            }
+            },
+            {
+                "key": "coppersword",
+                "chance": 100000
+            },
+            {
+                "key": "bronzepickaxe",
+                "chance": 100000
+            },
+            {
+                "key": "bronzeaxe",
+                "chance": 100000
+            },
+            {
+                "key": "ironsword",
+                "chance": 12000
+            },
+            {
+                "key": "bronzechestplate",
+                "chance": 100000
+            },
+            {
+                "key": "bronzelegplates",
+                "chance": 100000
+            },
+            {
+                "key": "woodenbow",
+                "chance": 100000
+            },
+            {
+                "key": "bronzehelmet",
+                "chance": 100000
+            },
+            {
+                "key": "bronzeboots",
+                "chance": 100000
+            },
+
         ]
     },
 
