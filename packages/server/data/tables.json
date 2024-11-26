@@ -238,6 +238,96 @@
         ]
     },
 
+    "common": {
+        "drops": [
+            {
+                "key": "bronzering",
+                "chance": 100000
+            },
+            {
+                "key": "ironring",
+                "chance": 8000
+            },
+            {
+                "key": "woodenbow",
+                "chance": 100000
+            },
+            {
+                "key": "aquastaff",
+                "chance": 100000
+            },
+            {
+                "key": "lightningstaff",
+                "chance": 100000
+            },
+            {
+                "key": "firestaff",
+                "chance": 100000
+            },
+            {
+                "key": "cursestaff",
+                "chance": 100000
+            },
+            {
+                "key": "lantern",
+                "chance": 100000
+            },
+            {
+                "key": "naturestaff",
+                "chance": 100000
+            },
+            {
+                "key": "coppersword",
+                "chance": 100000
+            },
+            {
+                "key": "bronzepickaxe",
+                "chance": 100000
+            },
+            {
+                "key": "bronzeaxe",
+                "chance": 100000
+            },
+            {
+                "key": "ironsword",
+                "chance": 12000
+            },
+            {
+                "key": "bronzechestplate",
+                "chance": 100000
+            },
+            {
+                "key": "bronzelegplates",
+                "chance": 100000
+            },
+            {
+                "key": "wizardhatblue",
+                "chance": 100000
+            },
+            {
+                "key": "bronzehelmet",
+                "chance": 100000
+            },
+            {
+                "key": "bronzeboots",
+                "chance": 100000
+            }
+        ]
+    },
+
+    "rare": {
+        "drops": [
+            {
+                "key": "lavaboots",
+                "chance": 100000
+            },
+            {
+                "key": "magmaboots",
+                "chance": 8000
+            }
+        ]
+    },
+
     "mushrooms": {
         "drops": [
             {
