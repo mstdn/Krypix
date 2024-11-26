@@ -8,7 +8,7 @@
                 "chance": 5
             }
         ],
-        "dropTables": ["ordinary"],
+        "dropTables": ["common"],
         "hitPoints": 20,
         "level": 1,
         "aggroRange": 1,
@@ -47,7 +47,7 @@
     "bat": {
         "name": "Batterfly",
         "description": "A bat that is also a butterfly, what a strange creature.",
-        "dropTables": ["ordinary"],
+        "dropTables": ["common"],
         "hitPoints": 65,
         "level": 4,
         "aggroRange": 1,
@@ -80,7 +80,7 @@
     "crab": {
         "name": "Crab",
         "description": "I wonder if I can eat this.",
-        "dropTables": ["ordinary"],
+        "dropTables": ["common"],
         "hitPoints": 15,
         "level": 1,
         "aggroRange": 1,
