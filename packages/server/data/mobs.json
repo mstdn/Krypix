@@ -1049,7 +1049,7 @@
     "blackwizard": {
         "name": "Dark Wizard",
         "description": "They don't look all that different from the other ones.",
-        "dropTables": ["ordinary", "shards", "unusual"],
+        "dropTables": ["ordinary", "shards", "unusual", "epic"],
         "hitPoints": 170,
         "level": 32,
         "aggroRange": 6,
@@ -1323,7 +1323,7 @@
 
     "bluepreta": {
         "name": "Blue Preta",
-        "dropTables": ["ordinary", "shards", "unusual", "fruits", "vegetables"],
+        "dropTables": ["epic"],
         "hitPoints": 600,
         "level": 85,
         "aggroRange": 1,

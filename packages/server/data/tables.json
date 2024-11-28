@@ -328,6 +328,35 @@
         ]
     },
 
+    "epic": {
+        "drops": [
+            {
+                "key": "sentinelsword",
+                "chance": 100000
+            },
+            {
+                "key": "sentinelchestplate",
+                "chance": 100000
+            },
+            {
+                "key": "sentinellegplates",
+                "chance": 100000
+            },
+            {
+                "key": "sentinelboots",
+                "chance": 100000
+            },
+            {
+                "key": "sentinelchestplate",
+                "chance": 100000
+            },
+            {
+                "key": "sentinelhelm",
+                "chance": 100000
+            }
+        ]
+    },
+
     "mushrooms": {
         "drops": [
             {

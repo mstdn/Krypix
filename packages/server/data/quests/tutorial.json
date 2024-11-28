@@ -1,6 +1,6 @@
 {
-    "name": "Welcome to Kaetram",
-    "description": "Teaching you the very basics of Kaetram.|This tutorial will teach you how to move around, attack, interact with objects and use ranged weapons. Follow the arrows and talk to the NPCs if you are stuck.",
+    "name": "Welcome to Krypix",
+    "description": "Teaching you the very basics of Krypix.|This tutorial will teach you how to move around, attack, interact with objects and use ranged weapons. Follow the arrows and talk to the NPCs if you are stuck.",
     "rewards": ["Knowledge of the game :)"],
     "stages": {
         "0": {
@@ -43,7 +43,7 @@
             "npc": "guard",
             "text": [
                 "Oh great anot- nevermind.",
-                "Welcome to the world of Kaetram.",
+                "Welcome to the world of Krypix.",
                 "I'm here to teach you about skills and combat.",
                 "Skills are activities that allow you to collect items and gain experience.",
                 "You can use the experience to discover new areas and engage in more complex tasks.",
